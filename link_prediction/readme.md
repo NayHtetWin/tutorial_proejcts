@@ -28,5 +28,5 @@ In this project, I followed a comprehensive tutorial to build a Graph Neural Net
 - **Problem-Solving**: Applied critical thinking and problem-solving skills in overcoming implementation challenges.
 
 ## Acknowledgements
-- Scource code is from https://pytorch-geometric.readthedocs.io/en/latest/get_started/colabs.html
+- Tutorial and source code from https://pytorch-geometric.readthedocs.io/en/latest/get_started/colabs.html
 
